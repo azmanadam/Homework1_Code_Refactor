@@ -6,7 +6,7 @@
 1. Changes made
 
 ## Overview
-Checking the code, and updating to follow accepted user accessibility standards and adding proper semantic elements. This is to ensure it is optimised for search engines, users with disabilities, and other developers to understand the code easily. 
+Checking the code for Horiseon Marketing Agency, and updating to follow accepted user accessibility standards and adding proper semantic elements. This is to ensure it is optimised for search engines, users with disabilities, and other developers to understand the code easily. 
 
 ## Files
 **Index.html :** Main HTML file where most of the adjustments have been made. 
