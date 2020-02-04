@@ -1,4 +1,4 @@
-# Code Refractor
+# Code Refactor
 
 ## Contents
 1. Overview
